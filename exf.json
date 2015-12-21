@@ -3,5 +3,5 @@
 	"url": "http://www.exactfile.com/files/exf-exactfile-console-app.zip",
 	"version": "1.0.1.6 Beta",
   "hash": "60ad9cb2abe3467aa31ede928b4e3fcfd5dfb298b5f2666f95f449db94b13f2a",
-	"bin": [ [ "exf.exe", "ExactFile" ] ]
+	"bin": [ ["exf.exe", "hash"] ]
 }
