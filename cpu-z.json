@@ -1,7 +1,0 @@
-{
-	"homepage": "http://www.cpuid.com/softwares/cpu-z.html",
-	"url": "http://download.cpuid.com/cpu-z/cpu-z_1.74-en.zip",
-	"version": "1.74",
-  "hash": "fd24cdce29b7b8811f9345a5a4e02a626f2753f97089246e2bfc8174c8ebb099",
-	"bin": [ [ "cpuz_x32.exe", "cpu-z" ], [ "cpuz_x32.exe", "cpu-z-32" ], [ "cpuz_x64.exe", "cpu-z-64" ] ]
-}
